@@ -2,4 +2,6 @@
 /build
 /tmp
 /export
+_site
+.sass-cache
 
